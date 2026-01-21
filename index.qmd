@@ -17,32 +17,32 @@ Join us for a day of cutting-edge research on choice process data at the Economi
 
 ---
 
-## Keynote Speakers
+## Speakers
 
-::: {.keynote-grid}
-::: {.keynote-card}
-![](images/ming-hsu.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+::: {.speaker-grid}
+::: {.speaker-card}
+![](images/ming-hsu.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
 ### Ming Hsu
 
 UC Berkeley
 :::
-::: {.keynote-card}
-![](images/joe-kable.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+::: {.speaker-card}
+![](images/joe-kable.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
 ### Joe Kable
 
 University of Pennsylvania
 :::
-::: {.keynote-card}
-![](images/kirby-nielsen.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+::: {.speaker-card}
+![](images/kirby-nielsen.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
 ### Kirby Nielsen
 
 Caltech
 :::
-::: {.keynote-card}
-![](images/marta-serra-garcia.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+::: {.speaker-card}
+![](images/marta-serra-garcia.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
 ### Marta Serra Garcia
 
@@ -102,14 +102,14 @@ UC San Diego
 
 ::: {.organizer-grid}
 ::: {.organizer-card}
-![](images/ian-krajbich.jpg){style="width: 120px; height: 120px; object-fit: cover; object-position: center top; border-radius: 50%;"}
+![](images/ian-krajbich.jpg){style="width: 160px; height: 160px; object-fit: cover; object-position: center top; border-radius: 50%;"}
 
 **Ian Krajbich**
 
 UCLA | [Lab Website](https://krajbichlab.psych.ucla.edu/)
 :::
 ::: {.organizer-card}
-![](images/charles-noussair.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+![](images/charles-noussair.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
 **Charles Noussair**
 

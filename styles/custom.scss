@@ -192,44 +192,6 @@ p {
 
 // Speaker grid
 .speaker-grid {
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1.5rem;
-}
-
-.speaker-card {
-  text-align: center;
-  width: 120px;
-}
-
-.speaker-img {
-  width: 90px;
-  height: 90px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin-bottom: 0.5rem;
-}
-
-.speaker-placeholder {
-  width: 90px;
-  height: 90px;
-  background: #f0f0f0;
-  border: 1px solid #ddd;
-  border-radius: 50%;
-  margin: 0 auto 0.5rem auto;
-}
-
-.speaker-card p {
-  margin: 0;
-  font-size: 0.9rem;
-  color: $text-color;
-  font-weight: 500;
-}
-
-// Keynote speaker grid for 4 speakers
-.keynote-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -237,30 +199,35 @@ p {
   margin: 2rem 0;
 }
 
-.keynote-card {
+.speaker-card {
   text-align: center;
-  width: 180px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.keynote-card img {
-  width: 120px;
-  height: 120px;
+.speaker-card img {
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   border: 3px solid #f0f0f0;
 }
 
-.keynote-card h3 {
-  font-size: 1.05rem;
+.speaker-card h3 {
+  font-size: 1.1rem;
   margin: 0.25rem 0;
   color: $dark;
+  text-align: center;
 }
 
-.keynote-card p {
-  font-size: 0.9rem;
+.speaker-card p {
+  font-size: 0.95rem;
   margin: 0.15rem 0;
   color: $text-muted;
+  text-align: center;
 }
 
 // Footer - Clean
@@ -342,16 +309,16 @@ hr {
     gap: 2rem;
   }
 
-  .keynote-grid {
-    gap: 1.5rem;
+  .speaker-grid {
+    gap: 2rem;
   }
 
-  .keynote-card {
-    width: 140px;
+  .speaker-card {
+    width: 160px;
   }
 
-  .keynote-card img {
-    width: 100px;
-    height: 100px;
+  .speaker-card img {
+    width: 130px;
+    height: 130px;
   }
 }
