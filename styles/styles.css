@@ -1,0 +1,128 @@
+/* Additional custom styles - Clean ESA-inspired design */
+
+/* Page layout */
+body {
+  background: #fff;
+}
+
+/* Main content container */
+main {
+  min-height: calc(100vh - 160px);
+  background: white;
+}
+
+main > .content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem 2rem 2rem;
+}
+
+/* Navigation */
+.navbar {
+  border-bottom: none;
+}
+
+/* Image styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Table styling - Clean */
+table {
+  width: 100%;
+  margin: 1rem 0;
+  border-collapse: collapse;
+  background: white;
+  font-size: 0.95rem;
+}
+
+table th {
+  background: #2081b7;
+  color: white;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+table td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+table tr:hover {
+  background-color: #f8f9fa;
+}
+
+table td:first-child {
+  white-space: nowrap;
+  font-weight: 500;
+  color: #2081b7;
+  width: 100px;
+  font-size: 0.9rem;
+}
+
+table td strong {
+  color: #060707;
+  font-weight: 600;
+}
+
+/* Links - Clean */
+a {
+  color: #2081b7;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #1a6a94;
+  text-decoration: underline;
+}
+
+/* Hide quarto title */
+.quarto-title {
+  display: none;
+}
+
+/* Sponsor logos */
+.sponsor-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.sponsor-logos img {
+  max-height: 80px;
+  width: auto;
+  opacity: 0.85;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.35rem 0;
+  font-size: 1rem;
+}
+
+/* Strong text consistency */
+strong {
+  font-weight: 600;
+  color: #060707;
+}
+
+/* Registration highlight */
+.info-box strong {
+  color: #2081b7;
+}

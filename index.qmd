@@ -1,0 +1,124 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+# Fifth Workshop on Choice Process Data
+
+### ESA World Meeting 2026
+
+**July 14, 2026** | Jamaica Bay Inn, Marina Del Rey, CA
+:::
+
+::: {.intro-text}
+Join us for a day of cutting-edge research on choice process data at the Economic Science Association World Meeting. This workshop brings together leading researchers exploring how people make decisions using eye-tracking, response times, and other process measures.
+:::
+
+---
+
+## Keynote Speakers
+
+::: {.keynote-grid}
+::: {.keynote-card}
+![](images/ming-hsu.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+
+### Ming Hsu
+
+UC Berkeley
+:::
+::: {.keynote-card}
+![](images/joe-kable.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+
+### Joe Kable
+
+University of Pennsylvania
+:::
+::: {.keynote-card}
+![](images/kirby-nielsen.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+
+### Kirby Nielsen
+
+Caltech
+:::
+::: {.keynote-card}
+![](images/marta-serra-garcia.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+
+### Marta Serra Garcia
+
+UC San Diego
+:::
+:::
+
+---
+
+## Program — Tuesday, July 14
+
+| Time | Session |
+|------|---------|
+| 9:00 AM | Welcome & Introduction |
+| 9:15 AM | Keynote 1 |
+| 10:00 AM | Keynote 2 |
+| 10:45 AM | Coffee Break |
+| 11:15 AM | Keynote 3 |
+| 12:00 PM | Keynote 4 |
+| 12:45 PM | Lunch Break |
+| 2:00 PM | Contributed Talks |
+| 3:30 PM | Coffee Break |
+| 4:00 PM | Panel Discussion |
+| 5:00 PM | Closing Remarks |
+
+*Schedule subject to change*
+
+---
+
+## Venue
+
+::: {.important-box}
+**Jamaica Bay Inn**
+
+4175 Admiralty Way, Marina Del Rey, CA 90292
+
+[Jamaica Bay Inn Website](https://www.jamaicabayinn.com/)
+:::
+
+**Getting There:** The Jamaica Bay Inn is located in Marina del Rey, approximately 5 miles from LAX airport. The venue offers convenient access from the 405 and 90 freeways.
+
+**Accommodations:** The Jamaica Bay Inn offers waterfront rooms with views of the marina. Additional hotels are available throughout Marina del Rey and nearby Venice Beach.
+
+---
+
+## Registration
+
+::: {.info-box}
+**Registration is FREE** for registered attendees of the Economic Science Association World Meeting.
+
+[Register for ESA World Meeting](https://economicscience.org/)
+:::
+
+---
+
+## Organizers
+
+::: {.organizer-grid}
+::: {.organizer-card}
+![](images/ian-krajbich.jpg){style="width: 120px; height: 120px; object-fit: cover; object-position: center top; border-radius: 50%;"}
+
+**Ian Krajbich**
+
+UCLA | [Lab Website](https://krajbichlab.psych.ucla.edu/)
+:::
+::: {.organizer-card}
+![](images/charles-noussair.jpg){style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"}
+
+**Charles Noussair**
+
+University of Arizona
+:::
+:::
+
+---
+
+::: {.info-box}
+**Questions?** Contact the organizers at [krajbich@ucla.edu](mailto:krajbich@ucla.edu)
+:::

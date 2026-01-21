@@ -1,0 +1,357 @@
+/*-- scss:defaults --*/
+
+// ESA-inspired Colors - Clean Blue Palette
+$primary: #2081b7; // ESA Blue
+$secondary: #3E92CC; // Lighter Blue
+$accent: #5c9ed5; // Light Blue Accent
+$light: #f8f9fa;
+$dark: #060707;
+$text-color: #333;
+$text-muted: #666;
+
+// Typography - Clean System Fonts
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$headings-color: $dark;
+
+// Navbar
+$navbar-bg: $primary;
+$navbar-fg: white;
+
+/*-- scss:rules --*/
+
+// Base typography
+body {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: $text-color;
+  background: #fff;
+}
+
+// Content container
+.content-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+// Hero section - Clean and professional
+.hero-banner {
+  background: linear-gradient(135deg, $primary 0%, darken($primary, 10%) 100%);
+  color: white;
+  padding: 4rem 2rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: 2.75rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.5px;
+}
+
+.hero-banner h3 {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.hero-banner p {
+  color: white;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  font-weight: 400;
+}
+
+.hero-banner strong {
+  color: white;
+  font-weight: 500;
+}
+
+// Intro paragraph
+.intro-text {
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: $text-color;
+  text-align: center;
+  max-width: 800px;
+  margin: 2.5rem auto;
+  padding: 0 1rem;
+}
+
+// Section headers - Clean underline
+h2 {
+  color: $dark;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 2.5rem 0 1.25rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid $secondary;
+}
+
+h3 {
+  color: $dark;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+// Paragraph styling
+p {
+  margin: 0.75rem 0;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+// Card styling - Subtle
+.card {
+  border: 1px solid #e9ecef;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+  margin: 1.5rem 0;
+  background: white;
+}
+
+// Info box - Clean
+.info-box {
+  background: #f8f9fa;
+  border-left: 3px solid $secondary;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 1rem;
+}
+
+// Important box
+.important-box {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.important-box strong {
+  color: $dark;
+  font-size: 1.05rem;
+}
+
+// Buttons
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.95rem;
+  border-radius: 4px;
+
+  &:hover {
+    background-color: darken($primary, 8%);
+    border-color: darken($primary, 8%);
+    color: white;
+  }
+}
+
+// Grid sections
+.grid {
+  margin: 1rem 0;
+}
+
+.grid h3 {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+
+// Organizers section
+.organizer-grid {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.organizer-card {
+  text-align: center;
+}
+
+.organizer-card p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+  color: $text-muted;
+}
+
+// Speaker grid
+.speaker-grid {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.speaker-card {
+  text-align: center;
+  width: 120px;
+}
+
+.speaker-img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+
+.speaker-placeholder {
+  width: 90px;
+  height: 90px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  margin: 0 auto 0.5rem auto;
+}
+
+.speaker-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: $text-color;
+  font-weight: 500;
+}
+
+// Keynote speaker grid for 4 speakers
+.keynote-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  margin: 2rem 0;
+}
+
+.keynote-card {
+  text-align: center;
+  width: 180px;
+}
+
+.keynote-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.75rem;
+  border: 3px solid #f0f0f0;
+}
+
+.keynote-card h3 {
+  font-size: 1.05rem;
+  margin: 0.25rem 0;
+  color: $dark;
+}
+
+.keynote-card p {
+  font-size: 0.9rem;
+  margin: 0.15rem 0;
+  color: $text-muted;
+}
+
+// Footer - Clean
+.nav-footer {
+  background-color: $primary;
+  color: white;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+
+.nav-footer a {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.nav-footer a:hover {
+  color: white !important;
+}
+
+.footer-logo {
+  height: 40px;
+  width: auto;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+
+// Navbar - Clean
+.navbar {
+  padding: 0.75rem 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+}
+
+.navbar-logo {
+  max-height: 36px;
+  width: auto;
+  margin-right: 0.5rem;
+}
+
+// Horizontal rules - Subtle
+hr {
+  border: none;
+  height: 1px;
+  background: #e9ecef;
+  margin: 2.5rem 0;
+}
+
+// Keynote section styling
+.keynote-section {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+// Responsive
+@media (max-width: 768px) {
+  .hero-banner h1 {
+    font-size: 2rem;
+  }
+
+  .hero-banner {
+    padding: 2.5rem 1rem;
+  }
+
+  h2 {
+    font-size: 1.35rem;
+  }
+
+  .intro-text {
+    font-size: 1.05rem;
+  }
+
+  .organizer-grid {
+    gap: 2rem;
+  }
+
+  .keynote-grid {
+    gap: 1.5rem;
+  }
+
+  .keynote-card {
+    width: 140px;
+  }
+
+  .keynote-card img {
+    width: 100px;
+    height: 100px;
+  }
+}
