@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.hero-banner}
-# Fifth Workshop on Choice Process Data
+# Sixth Workshop on Choice Process Data
 
 ### ESA World Meeting 2026
 
