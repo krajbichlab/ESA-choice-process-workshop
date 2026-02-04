@@ -77,9 +77,19 @@ TBD - 9AM - 5PM
 ## Registration
 
 ::: {.info-box}
-**Registration is FREE** for registered attendees of the Economic Science Association World Meeting.
+Registration is FREE for registered attendees of the Economic Science Association World Meeting.
 
 [Register for ESA World Meeting](https://economicscience.org/)
+:::
+
+---
+
+## Abstract Submission
+
+::: {.info-box}
+Submit your abstract for a contributed talk at the workshop.
+
+[Submit Abstract](https://uarizona.co1.qualtrics.com/jfe/form/SV_abkeWcbvb9mvRWK)
 :::
 
 ---
