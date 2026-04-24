@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/
 
 website:
   title: "Choice Process Data Workshop"
@@ -15,7 +17,7 @@ website:
         href: "https://economicscience.org/"
   page-footer:
     left: |
-      Fifth Workshop on Choice Process Data &copy; 2026
+      Sixth Workshop on Choice Process Data &copy; 2026
     center: |
       ESA World Meeting 2026
     right: |

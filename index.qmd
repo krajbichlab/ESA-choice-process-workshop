@@ -54,7 +54,34 @@ UC San Diego
 
 ## Program — Tuesday, July 14
 
-TBD - 9AM - 5PM
+The full-day program features four keynote addresses, contributed talks, and a tutorial, running from 8:50 AM to 5:00 PM at the Jamaica Bay Inn.
+
+::: {.info-box}
+[**View the full program (PDF)**](files/workshop-program-2026.pdf)
+:::
+
+::: {.program-schedule}
+| Time | Session |
+|------|---------|
+| 8:50 – 9:00 | **Opening remarks** from the organizers |
+| 9:00 – 9:40 | **Keynote:** TBD — *Ming Hsu* (UC Berkeley, Haas School of Business) |
+| 9:40 – 10:00 | What do people think about? — *Joshua Tasoff* (Claremont Graduate School) |
+| 10:00 – 10:15 | *Break* |
+| 10:15 – 10:55 | **Keynote:** TBD — *Kirby Nielsen* (Caltech) |
+| 10:55 – 11:15 | Eliciting decision rules in general vs. concrete insurance problems — *Ayala Arad* (Tel Aviv University, Coller School of Management) |
+| 11:15 – 11:30 | *Break* |
+| 11:30 – 11:50 | The Effects of Across-Trial Lottery-Outcome Variance on Gaze and Choice — *Anthony Miceli* (UCLA) |
+| 11:50 – 12:10 | Biological correlates of rational inattention — *Joseph Tao-yi Wang* (National Taiwan University) |
+| 12:10 – 1:40 | *Lunch* |
+| 1:40 – 2:10 | **Tutorial:** Combating AI agents in online experiments — *Kianté Fernandez* (UCLA) |
+| 2:10 – 2:30 | Asking the right questions: Flexible information acquisition for decision under uncertainty — *Pete Robertson* (Stanford) |
+| 2:30 – 2:45 | *Coffee Break* |
+| 2:45 – 3:25 | **Keynote:** TBD — *Joseph Kable* (University of Pennsylvania) |
+| 3:25 – 3:45 | Attribute latencies underlie heterogeneity in risk attitudes and behavioral anomalies — *Fadong Chen* (Zhejiang University) |
+| 3:45 – 4:00 | *Break* |
+| 4:00 – 4:20 | Cognition is the Invisible Hand: How Response Times Make Markets Allocationally Efficient — *Brenden Eum* (University of Toronto, Rotman School of Management) |
+| 4:20 – 5:00 | **Keynote:** TBD — *Marta Serra Garcia* (UC San Diego) |
+:::
 
 ---
 
