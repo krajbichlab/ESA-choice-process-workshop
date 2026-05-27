@@ -21,11 +21,11 @@ Join us for a day of cutting-edge research on choice process data at the Economi
 
 ::: {.speaker-grid}
 ::: {.speaker-card}
-![](images/ming-hsu.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
+![](images/craig-fox.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
-### Ming Hsu
+### Craig Fox
 
-UC Berkeley
+UCLA, Anderson School of Management
 :::
 ::: {.speaker-card}
 ![](images/joe-kable.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
@@ -64,7 +64,7 @@ The full-day program features four keynote addresses, contributed talks, and a t
 | Time | Session |
 |------|---------|
 | 8:50 – 9:00 | **Opening remarks** from the organizers |
-| 9:00 – 9:40 | **Keynote:** TBD — *Ming Hsu* (UC Berkeley, Haas School of Business) |
+| 9:00 – 9:40 | **Keynote:** The role of attention in probability weighting — *Craig Fox* (UCLA, Anderson School of Management) |
 | 9:40 – 10:00 | What do people think about? — *Joshua Tasoff* (Claremont Graduate School) |
 | 10:00 – 10:15 | *Break* |
 | 10:15 – 10:55 | **Keynote:** TBD — *Kirby Nielsen* (Caltech) |
