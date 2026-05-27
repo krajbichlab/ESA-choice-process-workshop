@@ -76,7 +76,7 @@ The full-day program features four keynote addresses, contributed talks, and a t
 | 1:40 – 2:10 | **Tutorial:** Combating AI agents in online experiments — *Kianté Fernandez* (UCLA) |
 | 2:10 – 2:30 | Asking the right questions: Flexible information acquisition for decision under uncertainty — *Pete Robertson* (Stanford) |
 | 2:30 – 2:45 | *Coffee Break* |
-| 2:45 – 3:25 | **Keynote:** TBD — *Joseph Kable* (University of Pennsylvania) |
+| 2:45 – 3:25 | **Keynote:** Attribute-guided attention as an adaptive mechanism for efficient search: evidence from mobile eye-tracking during naturalistic decision-making — *Joseph Kable* (University of Pennsylvania) |
 | 3:25 – 3:45 | Attribute latencies underlie heterogeneity in risk attitudes and behavioral anomalies — *Fadong Chen* (Zhejiang University) |
 | 3:45 – 4:00 | *Break* |
 | 4:00 – 4:20 | Cognition is the Invisible Hand: How Response Times Make Markets Allocationally Efficient — *Brenden Eum* (University of Toronto, Rotman School of Management) |
