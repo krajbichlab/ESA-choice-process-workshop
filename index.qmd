@@ -70,12 +70,12 @@ The full-day program features four keynote addresses, contributed talks, and a t
 | 10:15 – 10:55 | **Keynote:** TBD — *Kirby Nielsen* (Caltech) |
 | 10:55 – 11:15 | Eliciting decision rules in general vs. concrete insurance problems — *Ayala Arad* (Tel Aviv University, Coller School of Management) |
 | 11:15 – 11:30 | *Break* |
-| 11:30 – 11:50 | The Effects of Across-Trial Lottery-Outcome Variance on Gaze and Choice — *Anthony Miceli* (UCLA) |
-| 11:50 – 12:10 | Biological correlates of rational inattention — *Joseph Tao-yi Wang* (National Taiwan University) |
+| 11:30 – 11:50 | Carbon Footprint Labels and Food and Beverage Choice: Eye-Tracking Evidence from maaDDM — *Wei James Chen* (National Taiwan University) |
+| 11:50 – 12:10 | Biological correlates of rational inattention — *Colin Camerer* (Caltech) |
 | 12:10 – 1:40 | *Lunch* |
 | 1:40 – 2:10 | **Tutorial:** Combating AI agents in online experiments — *Kianté Fernandez* (UCLA) |
 | 2:10 – 2:30 | Asking the right questions: Flexible information acquisition for decision under uncertainty — *Pete Robertson* (Stanford) |
-| 2:30 – 2:45 | *Coffee Break* |
+| 2:30 – 2:45 | *Break* |
 | 2:45 – 3:25 | **Keynote:** Attribute-guided attention as an adaptive mechanism for efficient search: evidence from mobile eye-tracking during naturalistic decision-making — *Joseph Kable* (University of Pennsylvania) |
 | 3:25 – 3:45 | Attribute latencies underlie heterogeneity in risk attitudes and behavioral anomalies — *Fadong Chen* (Zhejiang University) |
 | 3:45 – 4:00 | *Break* |
