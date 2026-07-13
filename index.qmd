@@ -44,9 +44,9 @@ Caltech
 ::: {.speaker-card}
 ![](images/marta-serra-garcia.jpg){style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;"}
 
-### Marta Serra Garcia
+### Marta Serra-Garcia
 
-UC San Diego
+UC San Diego, Rady School of Management
 :::
 :::
 
@@ -67,7 +67,7 @@ The full-day program features four keynote addresses, contributed talks, and a t
 | 9:00 – 9:40 | **Keynote:** The role of attention in probability weighting — *Craig Fox* (UCLA, Anderson School of Management) |
 | 9:40 – 10:00 | What do people think about? — *Joshua Tasoff* (Claremont Graduate School) |
 | 10:00 – 10:15 | *Break* |
-| 10:15 – 10:55 | **Keynote:** TBD — *Kirby Nielsen* (Caltech) |
+| 10:15 – 10:55 | **Keynote:** Rules in the Face of Complexity — *Kirby Nielsen* (Caltech) |
 | 10:55 – 11:15 | Eliciting decision rules in general vs. concrete insurance problems — *Ayala Arad* (Tel Aviv University, Coller School of Management) |
 | 11:15 – 11:30 | *Break* |
 | 11:30 – 11:50 | Carbon Footprint Labels and Food and Beverage Choice: Eye-Tracking Evidence from maaDDM — *Wei James Chen* (National Taiwan University) |
@@ -80,7 +80,7 @@ The full-day program features four keynote addresses, contributed talks, and a t
 | 3:25 – 3:45 | Attribute latencies underlie heterogeneity in risk attitudes and behavioral anomalies — *Fadong Chen* (Zhejiang University) |
 | 3:45 – 4:00 | *Break* |
 | 4:00 – 4:20 | Cognition is the Invisible Hand: How Response Times Make Markets Allocationally Efficient — *Brenden Eum* (University of Toronto, Rotman School of Management) |
-| 4:20 – 5:00 | **Keynote:** TBD — *Marta Serra Garcia* (UC San Diego) |
+| 4:20 – 5:00 | **Keynote:** Gender Differences in Negotiation? Not on the Intensive Margins — *Marta Serra-Garcia* (UC San Diego, Rady School of Management) |
 :::
 
 ---
